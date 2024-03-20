@@ -2,7 +2,7 @@
 //se ainda nao sido processado anteriormente
 //le-se "se ainda nao tiver sido definido MONSTRO_H, define MONSTRO_H".
 //Se o teste falhar (i.e. o MONSTRO_H ja foi definido), o compilador salta para o #endif e tudo o que esta
-//dentro do #if e ignorado
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>
@@ -364,5 +364,3 @@ void test_Monstro_Pesquisa(void)
 
     println_monstros(medium_hp_monstros, num_medium_hp_monstros);
 }
-
-#endif
