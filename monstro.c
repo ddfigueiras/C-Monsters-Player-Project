@@ -138,14 +138,6 @@ void println_monstros(Monstro *monstros[], int n)
     for (int i = 0; i < n; i++)
         println_monstro(monstros[i]);
 }
-class Monstro
-{
-    printar:
-
-
-}
-
-
 
 
 //Dado um array de ponteiros para monstros, e um numero n de monstros a ler, le do standard input os n monstros.
