@@ -17,5 +17,8 @@ Player Data Loading Functions: Functions for loading player data from files.
 Usage:
 You can compile and run each C program separately using a C compiler like gcc. Instructions for usage and sample inputs are provided within the code comments.
 
+# Contributions
+Contributions to this repository are not applicable as this is intended for educational purposes within the scope of a university assignment.
+
 # License:
 This project is licensed under the MIT License.
